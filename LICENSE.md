@@ -1,4 +1,4 @@
-# 
+# advanced dex front-running bot Tool | transaction-batching + auto-compounding offers the most advanced dex front-running bot, with transaction-batching and auto-compounding. Ideal
 
 
 
